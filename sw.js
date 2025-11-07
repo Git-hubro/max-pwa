@@ -1,9 +1,9 @@
 const CACHE_NAME = 'max-app-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  'https://upload.wikimedia.org/wikipedia/commons/7/75/Max_logo_2025.png'
+  '/max-pwa/',  
+    '/max-pwa/index.html',
+    '/max-pwa/manifest.json','
+    'https://upload.wikimedia.org/wikipedia/commons/7/75/Max_logo_2025.png''
 ];
 
 // Install event
