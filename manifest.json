@@ -2,7 +2,7 @@
   "name": "MAX",
   "short_name": "MAX",
   "description": "Быстрое и лёгкое приложение для общения и решения повседневных задач",
-    "start_url": "/max-pwa/index.htm,
+    "start_url": "/max-pwa/index.html",
       "display": "standalone",
       "background_color": "#E8E5FF",
   "theme_color": "#667eea",
